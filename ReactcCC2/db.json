@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "4762",
+      "name": "nikhil",
+      "username": "233ddnfn",
+      "phone": "7654392871",
+      "password": "111111"
+    },
+    {
+      "id": "e2ba",
+      "name": "Ratik Krishna M P",
+      "username": "dr doom",
+      "phone": "8754289687",
+      "password": "111111"
+    },
+    {
+      "name": "Ratik Krishna",
+      "phone": "8754286783",
+      "password": "111111",
+      "id": "4faf"
+    }
+  ]
+}
